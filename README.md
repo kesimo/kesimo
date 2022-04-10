@@ -63,7 +63,7 @@
 
 <p align="left">
 &nbsp; <a href="mailto:kev.ed.simon@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp; <a href="discordapp.com/users/564410164946534401" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>  
+&nbsp; <a href="https://discordapp.com/users/564410164946534401" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>  
 </p>
 
 &nbsp; By [kesimo](https://github.com/kesimo)
