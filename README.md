@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I'm studying Computer Science at TH Rosenheim.
+- 🎓 &nbsp; Currently I'm studying Computer Science.
 - 🧭 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Java, JS, DevOps and so on.
+- 💼 &nbsp; Golang, JS, DevOps and so on.
 - 🔆 &nbsp; Enthusiast in trading automation📈 &nbsp; and Mobile development.📱
 
 <br></br>
