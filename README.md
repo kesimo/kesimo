@@ -3,9 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Currently I'm studying Computer Science.
 - 🧭 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Golang, JS, DevOps and so on.
+- 💼 &nbsp; Golang, JS, Java, DevOps and so on (Automated Mobility Sector).
 - 🔆 &nbsp; Enthusiast in trading automation📈 &nbsp; and Mobile development.📱
 
 <br></br>
