@@ -1,12 +1,6 @@
 <h2> Hey there! I'm Kevin. <img src="./assets/so-so-icon.png" width="30"></h2>
 <img align="right" alt="GIF" src="./assets/programming_illustration.svg" width="50%"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🧭 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Golang, JS, Java, DevOps and so on (Automated Mobility Sector).
-- 🔆 &nbsp; Enthusiast in trading automation📈 &nbsp; and Mobile development.📱
-
 <br></br>
 
 <h3>🛠 Working with:</h3>
